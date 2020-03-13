@@ -1,0 +1,13 @@
+header#main-header a{
+    height: 60px;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    font-size:  18px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
